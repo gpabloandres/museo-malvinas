@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node6">
+  <panorama id="node6">
+    <input height="1387" overlap="1" width="1387" levelbias="0.400" leveltileurl="tiles/1 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelingroll="0">
+      <level height="1387" width="1387" preload="0" predecode="0"/>
+      <level height="693" width="693" preload="0" predecode="0"/>
+      <level height="346" width="346" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="101.456" tilt="10.4491" fov="70"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fov="120"/>
+    </view>
+    <userdata title="" source="" longitude="-68.32136750221252" copyright="" description="" datetime="" latitude="-54.81381827747951" author="" tags="Pano2VR5" info="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" border="1" wordwrap="1" enabled="1" width="180" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" title="" target="" description="" skinid="ht_node" pan="126.32" tilt="7.12" url="{node1}"/>
+      <hotspot id="Point02" title="" target="" description="" skinid="ht_node" pan="98.91" tilt="4.25" url="{node3}"/>
+      <polyhotspot id="Poly01" title="" target="100.845/-5.95878/54.0495" description="" url="{node1}">
+        <vertex pan="134.18" tilt="13.28"/>
+        <vertex pan="118.57" tilt="15.81"/>
+        <vertex pan="118.08" tilt="0.76"/>
+        <vertex pan="134.45" tilt="0.89"/>
+        <vertex pan="134.66" tilt="1.32"/>
+      </polyhotspot>
+      <polyhotspot id="Poly02" title="" target="171.969/-11.2129/54.0495" description="" url="{node3}">
+        <vertex pan="105.56" tilt="9.13"/>
+        <vertex pan="105.91" tilt="-0.96"/>
+        <vertex pan="91.8" tilt="-0.98"/>
+        <vertex pan="92.36" tilt="10.08"/>
+        <vertex pan="92.85" tilt="10.09"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="0" zoomoutpause="1" softedge="0" type="crossdissolve" zoomout="0" blendtime="1" zoomin="0" blendcolor="0x000000" zoomfov="20"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" contextfullscreen="0" lockedmouse="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input height="1394" overlap="1" width="1394" levelbias="0.400" leveltileurl="tiles/100_0117 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelingroll="0">
+      <level height="1394" width="1394" preload="0" predecode="0"/>
+      <level height="697" width="697" preload="0" predecode="0"/>
+      <level height="348" width="348" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="100.153" tilt="-8.97984" fov="54.0495"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fov="120"/>
+    </view>
+    <userdata title="" source="" longitude="-89.474837" copyright="" description="" datetime="" latitude="-75.474837" author="" tags="museo" info="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" border="1" wordwrap="1" enabled="1" width="180" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" title="" target="170.325/-2.49639/54.0495" description="" skinid="ht_node" pan="92.68" tilt="-1.79" url="{node2}"/>
+      <hotspot id="Point02" title="" target="_blank" description="" skinid="ht_url" pan="-0.66" tilt="5.82" url="https://drive.google.com/file/d/0B6WsUPMm5PNITjFIdFZKTURQaU0/view"/>
+      <hotspot id="Point03" title="" target="_blank" description="" skinid="ht_url" pan="65.7" tilt="-11.3" url="https://drive.google.com/drive/folders/0B6WsUPMm5PNIamhobUJQdTJuREU?usp=sharing"/>
+      <hotspot id="Point31" title="" target="_blank" description="" skinid="ht_url" pan="132.96" tilt="-2.42" url="https://drive.google.com/file/d/0B68uyEu1RE7HZnd3MGhXaElzc0E/view?usp=sharing"/>
+      <hotspot id="Point38" title="" target="-55.5225/-14.3238/54.0495" description="" skinid="ht_node" pan="27.77" tilt="-6.29" url="{node4}"/>
+      <hotspot id="Point04" title="" target="" description="" skinid="ht_node" pan="-35.47" tilt="-16.07" url="{node6}"/>
+      <polyhotspot id="Poly01" title="" target="101.456/10.4491/70" description="" url="{node6}">
+        <vertex pan="-32.23" tilt="15.37"/>
+        <vertex pan="-58.29" tilt="13.01"/>
+        <vertex pan="-58.26" tilt="-34.19"/>
+        <vertex pan="-31.36" tilt="-39.54"/>
+      </polyhotspot>
+      <polyhotspot id="Poly02" title="" target="_blank" description="" url="https://drive.google.com/file/d/0B6WsUPMm5PNITjFIdFZKTURQaU0/view">
+        <vertex pan="12.47" tilt="17.57"/>
+        <vertex pan="12.47" tilt="-9.3"/>
+        <vertex pan="-18.7" tilt="-12.38"/>
+        <vertex pan="-18.12" tilt="21.83"/>
+      </polyhotspot>
+      <polyhotspot id="Poly03" title="" target="_blank" description="" url="https://drive.google.com/drive/folders/0B6WsUPMm5PNIamhobUJQdTJuREU?usp=sharing">
+        <vertex pan="82.32" tilt="5.29"/>
+        <vertex pan="49.15" tilt="5.16"/>
+        <vertex pan="46.68" tilt="-38.71"/>
+        <vertex pan="84.48" tilt="-41.58"/>
+      </polyhotspot>
+      <polyhotspot id="Poly04" title="" target="_blank" description="" url="https://drive.google.com/file/d/0B68uyEu1RE7HZnd3MGhXaElzc0E/view?usp=sharing">
+        <vertex pan="144.88" tilt="20.67"/>
+        <vertex pan="121.44" tilt="18.02"/>
+        <vertex pan="120.66" tilt="-29.2"/>
+        <vertex pan="143.94" tilt="-30.73"/>
+      </polyhotspot>
+      <polyhotspot id="Poly05" title="" target="-54.8367/-7.03189/54.0495" description="" url="{node4}">
+        <vertex pan="39.14" tilt="8.92"/>
+        <vertex pan="38.61" tilt="-22.21"/>
+        <vertex pan="16.69" tilt="-37.72"/>
+        <vertex pan="16.81" tilt="15.91"/>
+      </polyhotspot>
+      <polyhotspot id="Poly06" title="" target="152.602/-3.82043/54.0495" description="" url="{node2}">
+        <vertex pan="117.81" tilt="16.93"/>
+        <vertex pan="87.68" tilt="13.03"/>
+        <vertex pan="89.02" tilt="-24.14"/>
+        <vertex pan="117.79" tilt="-21.46"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="0" zoomoutpause="1" softedge="0" type="crossdissolve" zoomout="0" blendtime="1" zoomin="0" blendcolor="0x000000" zoomfov="20"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" contextfullscreen="0" lockedmouse="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="1394" overlap="1" width="1394" levelbias="0.400" leveltileurl="tiles/100_0123 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelingroll="0">
+      <level height="1394" width="1394" preload="0" predecode="0"/>
+      <level height="697" width="697" preload="0" predecode="0"/>
+      <level height="348" width="348" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="152.602" tilt="-3.82043" fov="54.0495"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fov="120"/>
+    </view>
+    <userdata title="" source="" longitude="-89.474837" copyright="" description="" datetime="" latitude="-75.474837" author="" tags="museo" info="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" border="1" wordwrap="1" enabled="1" width="180" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" title="" target="" description="" skinid="ht_node" pan="-148.19" tilt="2.51" url="{node1}"/>
+      <hotspot id="Point02" title="" target="" description="" skinid="ht_node" pan="-58.88" tilt="-5.97" url="{node3}"/>
+      <hotspot id="Point03" title="" target="" description="" skinid="ht_node" pan="36.91" tilt="-8.2" url="{node5}"/>
+      <hotspot id="Point04" title="" target="" description="" skinid="ht_node" pan="-32.1" tilt="-8.99" url="{node4}"/>
+      <hotspot id="Point05" title="" target="_blank" description="" skinid="ht_url" pan="151" tilt="-2.8" url="https://drive.google.com/file/d/0B6WsUPMm5PNIT2l2cW5GMXhxbXc/view"/>
+      <hotspot id="Point06" title="" target="_blank" description="" skinid="ht_url" pan="-175.4" tilt="-1.89" url="https://drive.google.com/file/d/0B68uyEu1RE7HTGtVaktKYV83ZWM/view?usp=sharing"/>
+      <hotspot id="Point07" title="" target="_blank" description="" skinid="ht_url" pan="-106.51" tilt="-24.61" url="https://drive.google.com/drive/folders/0B6WsUPMm5PNIaWJrUWczR2REVlk?usp=sharing"/>
+      <polyhotspot id="Poly01" title="" target="_blank" description="" url="https://drive.google.com/file/d/0B6WsUPMm5PNIT2l2cW5GMXhxbXc/view">
+        <vertex pan="167.85" tilt="24.47"/>
+        <vertex pan="167.62" tilt="-31.7"/>
+        <vertex pan="136.53" tilt="-32.18"/>
+        <vertex pan="136.1" tilt="25.42"/>
+        <vertex pan="136.86" tilt="25.24"/>
+      </polyhotspot>
+      <polyhotspot id="Poly02" title="" target="_blank" description="" url="https://drive.google.com/file/d/0B68uyEu1RE7HTGtVaktKYV83ZWM/view?usp=sharing">
+        <vertex pan="-165.17" tilt="18.86"/>
+        <vertex pan="172.67" tilt="23.85"/>
+        <vertex pan="172.06" tilt="-31.2"/>
+        <vertex pan="-165.8" tilt="-25.04"/>
+        <vertex pan="-165.8" tilt="-25.04"/>
+        <vertex pan="-165.62" tilt="-24.87"/>
+      </polyhotspot>
+      <polyhotspot id="Poly03" title="" target="_blank" description="" url="https://drive.google.com/drive/folders/0B6WsUPMm5PNIaWJrUWczR2REVlk?usp=sharing">
+        <vertex pan="-77.19" tilt="7.63"/>
+        <vertex pan="-138.64" tilt="9.85"/>
+        <vertex pan="-150.01" tilt="-59.02"/>
+        <vertex pan="-69.86" tilt="-58.77"/>
+      </polyhotspot>
+      <polyhotspot id="Poly04" title="" target="161.849/-12.0778/54.0495" description="" url="{node3}">
+        <vertex pan="-46.45" tilt="14.58"/>
+        <vertex pan="-48.15" tilt="-34.86"/>
+        <vertex pan="-70.47" tilt="-30.58"/>
+        <vertex pan="-70.28" tilt="11.94"/>
+        <vertex pan="-69.72" tilt="12.62"/>
+      </polyhotspot>
+      <polyhotspot id="Poly05" title="" target="-39.0813/-8.44368/54.0495" description="" url="{node4}">
+        <vertex pan="-19.85" tilt="16.05"/>
+        <vertex pan="-43.66" tilt="14.99"/>
+        <vertex pan="-44.99" tilt="-36.7"/>
+        <vertex pan="-20.09" tilt="-38.95"/>
+      </polyhotspot>
+      <polyhotspot id="Poly06" title="" target="-91.3974/-37.3904/54.0495" description="" url="{node5}">
+        <vertex pan="54.47" tilt="28.95"/>
+        <vertex pan="17.82" tilt="20.88"/>
+        <vertex pan="19.03" tilt="-48.23"/>
+        <vertex pan="58.48" tilt="-55.74"/>
+      </polyhotspot>
+      <polyhotspot id="Poly07" title="" target="155.531/-1.37519/54.0495" description="" url="{node1}">
+        <vertex pan="-141.03" tilt="12.52"/>
+        <vertex pan="-145.77" tilt="-22.83"/>
+        <vertex pan="-161.03" tilt="-20.01"/>
+        <vertex pan="-156.98" tilt="15.41"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="0" zoomoutpause="1" softedge="0" type="crossdissolve" zoomout="0" blendtime="1" zoomin="0" blendcolor="0x000000" zoomfov="20"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" contextfullscreen="0" lockedmouse="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="1396" overlap="1" width="1396" levelbias="0.400" leveltileurl="tiles/100_0129 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelingroll="0">
+      <level height="1396" width="1396" preload="0" predecode="0"/>
+      <level height="698" width="698" preload="0" predecode="0"/>
+      <level height="349" width="349" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="165.481" tilt="-12.6563" fov="54.0495"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fov="120"/>
+    </view>
+    <userdata title="" source="" longitude="-89.474837" copyright="" description="" datetime="" latitude="-75.474837" author="" tags="museo" info="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" border="1" wordwrap="1" enabled="1" width="180" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" title="" target="" description="" skinid="ht_node" pan="-42.82" tilt="-5.67" url="{node2}"/>
+      <hotspot id="Point02" title="" target="" description="" skinid="ht_node" pan="-108.47" tilt="17.8" url="{node4}"/>
+      <hotspot id="Point03" title="" target="_blank" description="" skinid="ht_url" pan="-107.7" tilt="-23.23" url="https://drive.google.com/drive/folders/0B6WsUPMm5PNIZWIxX3pHQTNPaWM?usp=sharing"/>
+      <hotspot id="Point04" title="" target="_blank" description="" skinid="ht_url" pan="176.8" tilt="-0.75" url="https://nuestrasmalvinas.org/historia"/>
+      <polyhotspot id="Poly01" title="" target="_blank" description="" url="https://drive.google.com/drive/folders/0B6WsUPMm5PNIZWIxX3pHQTNPaWM?usp=sharing">
+        <vertex pan="-57.99" tilt="6.68"/>
+        <vertex pan="-47.6" tilt="-45.43"/>
+        <vertex pan="-171.59" tilt="-49.83"/>
+        <vertex pan="-160.98" tilt="6.42"/>
+      </polyhotspot>
+      <polyhotspot id="Poly02" title="" target="159.442/-1.12596/54.0495" description="" url="{node2}">
+        <vertex pan="-23.35" tilt="15"/>
+        <vertex pan="-24.41" tilt="-36.99"/>
+        <vertex pan="-44.91" tilt="-34.6"/>
+        <vertex pan="-54.73" tilt="14.45"/>
+      </polyhotspot>
+      <polyhotspot id="Poly03" title="" target="-39.0293/-12.6593/54.0495" description="" url="{node4}">
+        <vertex pan="-77" tilt="21.28"/>
+        <vertex pan="-74.96" tilt="11.77"/>
+        <vertex pan="-151.28" tilt="9.67"/>
+        <vertex pan="-150.6" tilt="17.54"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="0" zoomoutpause="1" softedge="0" type="crossdissolve" zoomout="0" blendtime="1" zoomin="0" blendcolor="0x000000" zoomfov="20"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" contextfullscreen="0" lockedmouse="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="1386" overlap="1" width="1386" levelbias="0.400" leveltileurl="tiles/100_0135 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelingroll="0">
+      <level height="1386" width="1386" preload="0" predecode="0"/>
+      <level height="693" width="693" preload="0" predecode="0"/>
+      <level height="346" width="346" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-55.5225" tilt="-14.3238" fov="54.0495"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fov="120"/>
+    </view>
+    <userdata title="" source="" longitude="-89.474837" copyright="" description="" datetime="" latitude="-75.474837" author="" tags="museo" info="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" border="1" wordwrap="1" enabled="1" width="180" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" title="" target="" description="" skinid="ht_node" pan="-111.81" tilt="15.81" url="{node3}"/>
+      <hotspot id="Point02" title="" target="" description="" skinid="ht_node" pan="54.73" tilt="-3.46" url="{node5}"/>
+      <hotspot id="Point03" title="" target="" description="" skinid="ht_node" pan="164.36" tilt="-6.27" url="{node2}"/>
+      <hotspot id="Point04" title="" target="" description="" skinid="ht_node" pan="-172.92" tilt="-5.18" url="{node1}"/>
+      <hotspot id="Point05" title="" target="_blank" description="" skinid="ht_url" pan="-118.24" tilt="-29.91" url="https://drive.google.com/drive/folders/0B6WsUPMm5PNIaTlveTltRHpMMUk?usp=sharing"/>
+      <hotspot id="Point06" title="" target="_blank" description="" skinid="ht_url" pan="121.56" tilt="-6.39" url="https://drive.google.com/file/d/0B6WsUPMm5PNILTJJSVUwTGYtbVU/view?usp=sharing"/>
+      <hotspot id="Point07" title="" target="_blank" description="" skinid="ht_url" pan="-51.02" tilt="1.25" url="https://nuestrasmalvinas.org/historia"/>
+      <polyhotspot id="Poly01" title="" target="171.122/-13.6609/54.0495" description="" url="{node3}">
+        <vertex pan="-80.17" tilt="16.56"/>
+        <vertex pan="-78.92" tilt="7.55"/>
+        <vertex pan="-150.35" tilt="8.61"/>
+        <vertex pan="-147.81" tilt="18.27"/>
+      </polyhotspot>
+      <polyhotspot id="Poly02" title="" target="_blank" description="" url="https://drive.google.com/drive/folders/0B6WsUPMm5PNIaTlveTltRHpMMUk?usp=sharing">
+        <vertex pan="-70.01" tilt="4.39"/>
+        <vertex pan="-58.15" tilt="-48.09"/>
+        <vertex pan="-176.47" tilt="-46.12"/>
+        <vertex pan="-166.06" tilt="5.48"/>
+        <vertex pan="-165.87" tilt="5.79"/>
+      </polyhotspot>
+      <polyhotspot id="Poly03" title="" target="_blank" description="" url="https://nuestrasmalvinas.org/historia">
+        <vertex pan="-26.33" tilt="11.27"/>
+        <vertex pan="-26.15" tilt="-11.65"/>
+        <vertex pan="-63.51" tilt="-9.25"/>
+        <vertex pan="-64.69" tilt="8.32"/>
+        <vertex pan="-65.18" tilt="9.21"/>
+      </polyhotspot>
+      <polyhotspot id="Poly04" title="" target="-92.4039/-33.9716/54.0495" description="" url="{node5}">
+        <vertex pan="107.5" tilt="29.37"/>
+        <vertex pan="106.61" tilt="-53.19"/>
+        <vertex pan="3.52" tilt="-44.24"/>
+        <vertex pan="2.62" tilt="20.84"/>
+      </polyhotspot>
+      <polyhotspot id="Poly05" title="" target="_blank" description="" url="https://drive.google.com/file/d/0B6WsUPMm5PNILTJJSVUwTGYtbVU/view?usp=sharing">
+        <vertex pan="130.05" tilt="16.9"/>
+        <vertex pan="129.93" tilt="-29.02"/>
+        <vertex pan="110.47" tilt="-42.84"/>
+        <vertex pan="111.59" tilt="27.79"/>
+      </polyhotspot>
+      <polyhotspot id="Poly06" title="" target="152.602/-3.82043/54.0495" description="" url="{node2}">
+        <vertex pan="177.65" tilt="11.87"/>
+        <vertex pan="175.54" tilt="-26.96"/>
+        <vertex pan="153.93" tilt="-33.67"/>
+        <vertex pan="154.82" tilt="15.39"/>
+        <vertex pan="155.83" tilt="15.05"/>
+      </polyhotspot>
+      <polyhotspot id="Poly07" title="" target="100.153/-8.97984/54.0495" description="" url="{node1}">
+        <vertex pan="-179.22" tilt="10.97"/>
+        <vertex pan="-179.9" tilt="-23.92"/>
+        <vertex pan="-172.67" tilt="-22.7"/>
+        <vertex pan="-167.11" tilt="8.68"/>
+        <vertex pan="-167.14" tilt="8.19"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="0" zoomoutpause="1" softedge="0" type="crossdissolve" zoomout="0" blendtime="1" zoomin="0" blendcolor="0x000000" zoomfov="20"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" contextfullscreen="0" lockedmouse="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="1395" overlap="1" width="1395" levelbias="0.400" leveltileurl="tiles/100_0141 Panorama/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelbiashidpi="0.400" levelingroll="0">
+      <level height="1395" width="1395" preload="0" predecode="0"/>
+      <level height="697" width="697" preload="0" predecode="0"/>
+      <level height="348" width="348" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-112.246" tilt="-7.23213" fov="54.0495"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fov="120"/>
+    </view>
+    <userdata title="" source="" longitude="-89.47482392423103" copyright="" description="" datetime="" latitude="-75.4748383454237" author="" tags="museo" info="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" border="1" wordwrap="1" enabled="1" width="180" textalpha="1" background="1" bordercolor="0x000000" borderradius="1" textcolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot id="Point01" title="" target="" description="" skinid="ht_node" pan="66.07" tilt="-9.06" url="{node4}"/>
+      <hotspot id="Point02" title="100_0117 Panorama" target="$fwd" description="" skinid="ht_node" pan="0.15" tilt="-3.42" url="{node2}"/>
+      <hotspot id="Point03" title="" target="_blank" description="" skinid="ht_url" pan="-88.01" tilt="-42.65" url="https://drive.google.com/drive/folders/0B6WsUPMm5PNIYWd2anlQX3A0RVU?usp=sharing"/>
+      <hotspot id="Point04" title="" target="_blank" description="" skinid="ht_url" pan="-176.51" tilt="-1.53" url="https://drive.google.com/file/d/0B6WsUPMm5PNIWUJjM2RqaVFHcTg/view?usp=sharing"/>
+      <hotspot id="Point05" title="" target="_blank" description="" skinid="ht_url" pan="13.56" tilt="-4.42" url="https://drive.google.com/file/d/0B6WsUPMm5PNIUEJNNlJfNjV5X0U/view?usp=sharing"/>
+      <polyhotspot id="Poly01" title="" target="-116.15/-7.40475/54.0495" description="" url="{node4}">
+        <vertex pan="102.94" tilt="15.65"/>
+        <vertex pan="105.14" tilt="-37.08"/>
+        <vertex pan="34.17" tilt="-43.3"/>
+        <vertex pan="35.9" tilt="18.32"/>
+        <vertex pan="36.4" tilt="19.62"/>
+      </polyhotspot>
+      <polyhotspot id="Poly02" title="" target="-105.904/-17.2063/54.0495" description="" url="{node2}">
+        <vertex pan="2.5" tilt="6.62"/>
+        <vertex pan="1.25" tilt="-25.87"/>
+        <vertex pan="-5.32" tilt="-21.05"/>
+        <vertex pan="-4.55" tilt="7.59"/>
+      </polyhotspot>
+      <polyhotspot id="Poly03" title="" target="_blank" description="" url="https://drive.google.com/drive/folders/0B6WsUPMm5PNIYWd2anlQX3A0RVU?usp=sharing">
+        <vertex pan="-41.59" tilt="-30.48"/>
+        <vertex pan="-69.24" tilt="-23.49"/>
+        <vertex pan="-136.04" tilt="-31.05"/>
+        <vertex pan="-168.34" tilt="-54.39"/>
+      </polyhotspot>
+      <polyhotspot id="Poly04" title="" target="_blank" description="" url="https://drive.google.com/file/d/0B6WsUPMm5PNIWUJjM2RqaVFHcTg/view?usp=sharing">
+        <vertex pan="-167.04" tilt="15.13"/>
+        <vertex pan="-167.46" tilt="-21.54"/>
+        <vertex pan="174.16" tilt="-23.44"/>
+        <vertex pan="174.48" tilt="19.01"/>
+      </polyhotspot>
+      <polyhotspot id="Poly05" title="" target="_blank" description="" url="https://drive.google.com/file/d/0B6WsUPMm5PNIUEJNNlJfNjV5X0U/view?usp=sharing">
+        <vertex pan="21.74" tilt="15.07"/>
+        <vertex pan="21.47" tilt="-29.46"/>
+        <vertex pan="4.69" tilt="-22.62"/>
+        <vertex pan="7.23" tilt="11.48"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="0" zoomoutpause="1" softedge="0" type="crossdissolve" zoomout="0" blendtime="1" zoomin="0" blendcolor="0x000000" zoomfov="20"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" simulatemass="1" invertcontrol="1" lockedwheel="0" sensitivity="8" lockedkeyboard="0" contextfullscreen="0" lockedmouse="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+</tour>

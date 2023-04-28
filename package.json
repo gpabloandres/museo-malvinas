@@ -1,0 +1,23 @@
+{
+  "name": "museomalvinas",
+  "version": "1.0.0",
+  "description": "Virtualización del museo Malvinas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decyt-tdf/museomalvinas.git"
+  },
+  "author": "decyt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/decyt-tdf/museomalvinas/issues"
+  },
+  "homepage": "https://github.com/decyt-tdf/museomalvinas#readme",
+  "dependencies": {
+    "ecstatic": "^2.2.1"
+  }
+}
